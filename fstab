@@ -9,3 +9,7 @@
 /dev/mapper/centos-root /                       xfs     defaults        0 0
 UUID=c2e7ba1d-c6df-449c-8722-73cd4f693331 /boot                   xfs     defaults        0 0
 /dev/mapper/centos-swap swap                    swap    defaults        0 0
+
+
+Git is a version control system.
+Git is free software.
